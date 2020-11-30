@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIBook_02_FSM", "Assembly-CSharp.csproj", "{9EBFDF7C-380E-3CBE-1034-2E77C3EB483F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{9EBFDF7C-380E-3CBE-1034-2E77C3EB483F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIBook_02_FSM", "Assembly-CSharp-Editor.csproj", "{A95E43B5-E17D-40CD-0A54-E65AFBF62FDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{A95E43B5-E17D-40CD-0A54-E65AFBF62FDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
